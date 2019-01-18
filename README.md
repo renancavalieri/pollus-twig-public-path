@@ -25,6 +25,7 @@ echo $component->url("http://another-url.com", ["param_a" => "foo", "param_b" =>
 ```
 
 **Extension usage:**
+```php
 require_once(__DIR__."/../vendor/autoload.php");
 
 use Pollus\TwigPublicPath\PublicPathComponent;
