@@ -6,7 +6,7 @@
  * @author Renan Cavalieri <renan@tecdicas.com>
  */
 
-namespace Pollus\TwigView\Extensions;
+namespace Pollus\TwigPublicPath;
 
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFunction;
